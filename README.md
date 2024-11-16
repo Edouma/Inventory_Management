@@ -3,7 +3,7 @@
  This is a huge system that keeps track of the inventory i.e. what is in stock what has been used and how the raw materials have been used.
  The system is also used to keep track of vendors and the products they deliver.
 
- #### What the System Does in a nutshell
+ #### What the System Does in a Nut-Shell
 -  Inventory Management
 -  Vendor Payment and Management
 -  Generate Report of the Sales Made
