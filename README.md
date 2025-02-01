@@ -24,3 +24,4 @@
 ![Vendor](https://github.com/Edouma/Inventory_Management/blob/main/Vendor.png)
 
 
+#### The system is about Inventory Management, One enters the raw materials after getting the raw materials from the supplier. 
