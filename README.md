@@ -24,10 +24,12 @@
 ![Vendor](https://github.com/Edouma/Inventory_Management/blob/main/Vendor.png)
 
 
-#### One enters the products to be produced, after the product has been entered then one can go ahead and produce the product, the user will choose the raw materials used for producing a product and when this is happening the system will be keeping track of the raw materials used, and also will be deducting the raw materials based on how much raw materials were used.
+#### Create Product
+One enters the products to be produced, after the product has been entered then one can go ahead and produce the product, the user will choose the raw materials used for producing a product and when this is happening the system will be keeping track of the raw materials used, and also will be deducting the raw materials based on how much raw materials were used.
 
 ![image](https://github.com/Edouma/Inventory_Management/blob/main/createProduct.jpg)
 
 #### Produce Product. 
+One Will choose the product to produce, Quantity, raw materials used to produce the product, and the store where the production is intended for...
 
 ![image](https://github.com/Edouma/Inventory_Management/blob/main/produceProduct.jpg)
