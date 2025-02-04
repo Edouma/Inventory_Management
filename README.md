@@ -1,4 +1,4 @@
-## Inventory Management System
+# Inventory Management System
  This is a Raw Material Inventory Management System done Using Node-JS, Express, MySql & React-JS.
  I have created a Rest API using NodeJS, Express & MySql.
  Consumed the API using ReactJS
